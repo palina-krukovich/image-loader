@@ -4,7 +4,7 @@
 > Environment and Cloud Storage.
 
 
-![Image](https://github.com/polina-krukovich/image-loader/blob/master/images/header.png)
+![Image](https://github.com/palina-krukovich/image-loader/blob/master/images/header.png)
 
 ## Functionality
 
@@ -26,8 +26,8 @@ User can create new images in Google Cloud Storage bucket:
     }
 ```
 
-![Image](https://github.com/polina-krukovich/image-loader/blob/master/images/upload_f.png)
-![Image](https://github.com/polina-krukovich/image-loader/blob/master/images/upload_s.png)
+![Image](https://github.com/palina-krukovich/image-loader/blob/master/images/upload_f.png)
+![Image](https://github.com/palina-krukovich/image-loader/blob/master/images/upload_s.png)
 
 ### Delete :x:
 You can delete images from bucket:
@@ -37,8 +37,8 @@ You can delete images from bucket:
     }
 ```
 
-![Image](https://github.com/polina-krukovich/image-loader/blob/master/images/delete_f.png)
-![Image](https://github.com/polina-krukovich/image-loader/blob/master/images/delete_s.png)
+![Image](https://github.com/palina-krukovich/image-loader/blob/master/images/delete_f.png)
+![Image](https://github.com/palina-krukovich/image-loader/blob/master/images/delete_s.png)
 
 ### View :eyes:
 User can list all the images stored in a bucket:
